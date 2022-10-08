@@ -1,4 +1,4 @@
-COMPONENT = "catalogue"
+COMPONENT = "dispatch"
 ENV       = "dev"
 
 INSTANCES = {
